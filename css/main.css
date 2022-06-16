@@ -1,0 +1,466 @@
+.container{
+    position: relative;
+    right: -70px;
+}
+.sup{
+    position: relative;
+    right: 10px;
+    top: -10px;
+    background-color:#0064D2;
+    width: 1450px;
+    height: 96px;
+}
+.logo{
+    position: relative;
+    bottom: -20px;
+    right: -200px;
+}     
+.search input[type=text]{
+    background-color: whitesmoke;
+    width:500px;
+    height:24px;
+    border-radius:0px 25px 25px 0px;
+    border-color: white;
+    position: relative;
+    right: 485px;
+    bottom: -25px;
+    font-family:sans-serif;
+}
+      
+.search{
+    float:right;
+    margin:7px;
+}
+.sel{
+    height: 30px;
+    width: 110px;
+    color: white;
+    background-color:#0064D2;
+    border-radius: 25px 0px 0px 25px;
+    border-color: white;
+    position: relative;
+    right: -217px;
+    bottom: -4px;
+    font-family:sans-serif;
+    cursor: pointer;
+}
+.fav{
+    position: relative;
+    right: -767px;
+    bottom: -10px;
+    cursor: pointer;
+}
+.cue{
+    position: relative;
+    right: -767px;
+    bottom: -24px;
+    cursor: pointer;
+}
+.can{
+    position: relative;
+    right: -767px;
+    bottom: -24px;
+    cursor: pointer;
+}
+.ser{
+    position: relative;
+    right: -555px;
+    bottom: -10px;
+    cursor: pointer;
+}
+.opt{
+    color: rgb(70, 70, 91);
+    position: relative;
+    right: -50px;
+    top: -10px;
+    background-color:rgb(255, 255, 255);
+    height: 30px;
+    display: flex;
+    gap: 50px;
+}
+.tx{
+    position: relative;
+    bottom: 20px;
+    right: -130px;
+    cursor: pointer;
+    
+}
+.c1{
+    margin: 30px;
+    width:auto;
+    position: relative;
+    right: -60px;
+    overflow: hidden;
+   
+}
+.ct1{
+    position: relative;
+    bottom: 25px;
+    color:gainsboro;
+}
+.ci1{
+    position: relative;
+    right: 10px;
+    cursor: pointer;
+}
+.cia1{
+    cursor: pointer;
+}
+.c2{
+    margin: 30px;
+    width:auto;
+    position: relative;
+    right: -60px;
+    bottom: -50px;
+    overflow: hidden;
+   
+}
+.ct2{
+    position: relative;
+    bottom: 52px;
+    right: -250px;
+    color: #0064D2
+    ;
+    cursor: pointer;
+}
+.ci2{
+    position: relative;
+    bottom: 97px;
+    right: -340px;
+    cursor: pointer;
+
+}
+.c3{
+    margin: 30px;
+    width:auto;
+    position: relative;
+    right: -60px;
+    bottom: 20px;
+    overflow: hidden;
+}    
+.i1{
+    cursor: pointer;
+}
+.i2{
+    position: relative;
+    right: -40px;
+    cursor: pointer;
+} 
+.i3{
+    position: relative;
+    right: -80px;
+    cursor: pointer;
+} 
+.i4{
+    position: relative;
+    right: -120px;
+    cursor: pointer;
+
+} 
+.i5{
+    position: relative;
+    right: -160px;
+    cursor: pointer;
+
+} 
+.i6{
+    position: relative;
+    right: -200px;
+    cursor: pointer;
+
+} 
+.i7{
+    position: relative;
+    right: -240px;
+    cursor: pointer;
+
+} 
+.i8{
+    position: relative;
+    right: -280px;
+    cursor: pointer;
+
+} 
+.c4{
+    margin: 30px;
+    width:auto;
+    position: relative;
+    right: -60px;
+    bottom: -60px;
+    overflow: hidden;
+}  
+.ct3{
+    position: relative;
+    bottom: 25px;
+    color:gainsboro;
+}
+.c5{
+    margin: 30px;
+    width:auto;
+    position: relative;
+    right: -60px;
+    bottom:50px;
+    overflow: hidden;
+}  
+.ct4{
+    position: relative;
+    bottom: 100px;
+    right: -170px;
+    color: #0064D2;
+    cursor: pointer;
+}
+.ci3{
+    position: relative;
+    bottom: 147px;
+    right: -260px;
+    cursor: pointer;
+
+}
+.ia1{
+    cursor: pointer;
+}
+.ia2{
+    position: relative;
+    right: -20px;
+    cursor: pointer;
+} 
+.ia3{
+    position: relative;
+    right: -40px;
+    cursor: pointer;
+} 
+.ia4{
+    position: relative;
+    right: -60px;
+    cursor: pointer;
+
+} 
+.ia5{
+    position: relative;
+    right: -80px;
+    cursor: pointer;
+
+} 
+.container2{
+    visibility: hidden;
+    height: 0px;
+    position: relative;
+    right: -50px;
+}
+.c6{
+    display: flex;
+    position: relative;
+    bottom: 1400px;
+    margin: 30px;
+    width:auto;
+    position: relative;
+    right: -60px;
+    overflow: hidden;
+    height: 90px;
+    color: #0064D2;
+}
+.ct7{
+    color: gainsboro;
+
+    
+}
+.ci4{
+    width:20px;
+    height: 20px;
+    object-fit: scale-down;
+    position: relative;
+    bottom: -25px;
+
+}
+.c7{
+    margin: 30px;
+    width:auto;
+    position: relative;
+    right: -56px;
+    bottom:1480px;
+    overflow: hidden;
+}
+.ci5{
+    width: 600px;
+    height: 600px;
+    object-fit: scale-down;
+    position: relative;
+}
+.ci6{
+    position: relative;
+    bottom: 420px;
+    right: -50px;
+}
+.ci7{
+    position: relative;
+    bottom: 510px;
+    right: -20px;
+}
+.c8{
+    position: relative;
+    right: -750px;
+    bottom: 1860px;
+}
+.ct8{
+    position: relative;
+    bottom: 480px;
+    right: 10px;
+}
+.ca1{
+    width: 440px;
+    height: 100px;
+}
+.btn{
+    width: 40px;
+    height: 40px;
+    object-fit: scale-down;
+    background-color: white;
+    border-color:whitesmoke;
+    border: 1px solid #C0C5CA;
+    border-radius: 8px;
+    margin: 4px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #C0C5CA;
+}
+.c9{
+    position: relative;
+    bottom: 10px;
+}
+.se{
+    width: 120px;
+    border-radius: 12px;
+    Padding:12px;
+    Gap:8px;
+}
+.c10{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    bottom: -30px;
+}
+.b1{
+    width: 211px;
+    height: 48px;
+    background-color: #184A81;
+    color: white;
+    border-radius: 12px;
+    font-family: serif;
+    cursor: pointer;
+    border-color: #C0C5CA;
+}
+.b2{
+    display: flex;
+    width: 211px;
+    height: 48px;
+    background-color: white;
+    color:#184A81;
+    border-radius: 12px;
+    align-items: center;
+    cursor: pointer;
+    border-color: #C0C5CA;
+    font-family: serif;
+}
+.ab{
+    position: relative;
+    right: -60px;
+}
+.bi{
+    position: relative;
+    right: -50px;
+}
+.c11{
+    position: relative;
+    right: 660px;
+    bottom:-50px;
+}
+.ia{
+    cursor: pointer;
+}
+.ib{
+    cursor: pointer;
+    position: relative;
+    right: -20px;
+
+}
+.ic{
+    cursor: pointer;
+    position: relative;
+    right: -40px;
+}
+.id{
+    cursor: pointer;
+    position: relative;
+    right: -60px;
+}
+.ie{
+    cursor: pointer;
+    position: relative;
+    right: -80px;
+
+}
+.c12{
+    margin: 30px;
+    width:auto;
+    position: relative;
+    right: -56px;
+    bottom:1800px;
+    overflow: hidden;
+}
+.c13{
+    margin: 30px;
+    width:auto;
+    position: relative;
+    right: -56px;
+    bottom:1700px;
+    overflow: hidden;
+}
+.a1{
+    position: relative;
+    bottom: 80px;
+    right: -250px;
+    color: #0064D2;
+    cursor: pointer;
+}
+.a2{
+    position: relative;
+    bottom: 127px;
+    right: -340px;
+    cursor: pointer;
+}
+.c14{
+   position: relative;
+   bottom: 60px;
+}
+.am{
+    cursor: pointer;
+}
+.bm{
+    position: relative;
+    right: -30px;
+    cursor: pointer;
+}
+.cm{
+    position: relative;
+    right: -60px;
+    cursor: pointer;
+
+}
+.dm{
+    position: relative;
+    right: -90px;
+    cursor: pointer;
+
+}
+.em{
+    position: relative;
+    right: -120px;
+    cursor: pointer;
+
+}
+.p1{
+    position: relative;
+    bottom: 200px;
+    color: green;
+}
